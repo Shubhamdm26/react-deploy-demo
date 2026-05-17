@@ -5,7 +5,7 @@ function App() {
   return (
     <>
      <div>
-      <h1>Deployment updated</h1>
+      <h1>{import.meta.env.VITE_APP_NAME}</h1>
       <p>This deployed automatically</p>
      </div>
     </>
