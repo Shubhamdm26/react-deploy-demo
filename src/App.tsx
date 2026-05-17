@@ -5,8 +5,8 @@ function App() {
   return (
     <>
      <div>
-      <h1>My first Deployment</h1>
-      <p>Learning CI/CD as React Developer</p>
+      <h1>Deployment updated</h1>
+      <p>This deployed automatically</p>
      </div>
     </>
   )
