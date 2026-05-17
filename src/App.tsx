@@ -6,7 +6,7 @@ function App() {
     <>
      <div>
       <h1>{import.meta.env.VITE_APP_NAME}</h1>
-      <p>This deployed automaticall</p>
+      <p>This deployed automatical</p>
      </div>
     </>
   )
