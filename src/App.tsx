@@ -5,7 +5,7 @@ function App() {
   return (
     <>
      <div>
-      <h1>Deployment updated
+      <h1>Deployment updated</h1>
       <p>This deployed automatically</p>
      </div>
     </>
